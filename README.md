@@ -21,7 +21,7 @@ The primary purpose of this simulator is to evaluate network performance, load b
 
 - `simulation_PN_NPN.py`: Core simulator logic for public and non-public network interactions.
 - `simulation_NPN_PN.py`: Configuration and simulation logic for NPN in relation to PN environments.
-- Additional files or configurations (list any other relevant files here).
+
 
 ## Features
 
